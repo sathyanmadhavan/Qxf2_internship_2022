@@ -81,3 +81,9 @@ Challenge 10:
 Challenge 11:
 
 - Didn't show 'fizzbuzz' for 3*5 multiples which I fixed by refering to previous programs and changed the condition which helped to solve the issue . 
+
+# Day-3
+
+-Updated day-2 work to the day-1 repository by creating a new branch called **sat**
+
+-Learnt about software testing and chose a web aplliction tried finding what testing I will use in that site.
