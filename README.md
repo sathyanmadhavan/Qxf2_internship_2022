@@ -87,3 +87,97 @@ Challenge 11:
 -Updated day-2 work to the day-1 repository by creating a new branch called **sat**
 
 -Learnt about software testing and chose a web aplliction tried finding what testing I will use in that site.
+
+
+# Day-4
+
+- Updated README.md file with Day-3 work and created new branch and pushed to the repository 
+- Fixed meeting and suggested how I would test the site
+
+Blog:
+  Point noted:
+	- How a simple mindset shift can have more impact on your project than zillion programming languages.
+	- Read this post and here are my notes:
+		- How a simple mindset shift can have more impact on your project than zillion programming languages.
+
+Way of working
+```
+ >Target Mindset :
+         `1` : `Continous delivary: Software is always in relesable state.`
+
+         `2` : `Test early to avoid bugs and analyze the quality of the product.`
+
+ >**Mindset we need to move**:
+        `1` : `Waterfalled agile: Software needs to be brought to relesable state.`
+
+        `2` : `Testing later aiming to find the bugs in already development feautres.`
+```
+
+When to test
+
+Target mindset:
+```
+  `1` : `Start with the test to increase the predictable of the end result.`
+
+  `2` : `Do exploratory testing during the development.`
+```
+
+Mindset we need to move :
+```
+   `1` : `End with the test before deployment.`
+
+   `2` : `Bugs might have been introduced during the development, our role is to find them.`
+```
+
+Who is responsible for quality?
+
+Target mindset:
+```
+  `1` : **Everyone responsible for quality** : `Put the quality front and center, not at the end of the pipeline. The whole team is quality focused.`
+
+  `2` :`Fewer resources can do more.`
+```
+
+Mindset we need to move:
+ 1 : **Only QA team is responsible for quality**:  Put the quality as a last line of defense.
+2 : Higher and higher resources are needed to defeat the quality issues.`
+
+
+When to deliver
+
+Target Mindset:
+
+1 : Deliver faster and smaller: Deliver a small amount of code and more frequently.
+
+2 : High quality comes from working in small, fast, definitive steps that we can monitor as we create the change.
+
+Mindset we need to move:
+
+1 : Deliver a large amount of code at once.
+
+2 : It is more difficult to validate the quality of software when it is big.
+
+Quality assurance or quality
+
+Target Mindset:
+
+1 : QA over quality control: The main focus is an efficient way of working and building harmony across the teams.
+
+2 : Constant feedback mechanism to improve the SDLC (Software Development Life Cycle) pipeline.
+
+Mindset we need to move:
+
+1: Quality control only: The main focus is checking the final result.
+
+2: Quality becomes a concern when problems arise. Feedback is received during the final tests.
+
+What is QA?
+
+Target Mindset:
+
+1: QA means Quality Assurance: QA team is in an advisor position from the beginning of the development to the end. The focus is more on quality rather than bug finding.
+
+2: QA should not find bugs. When a bug is found, it is not only supposed to be fixed but the root cause should be investigated.
+
+Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-finder.
+2 : QA should find the bugs and then bugs should be fixed without further investigation. Bug is only a software issue.
