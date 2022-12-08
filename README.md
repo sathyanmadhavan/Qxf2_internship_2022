@@ -181,3 +181,18 @@ Target Mindset:
 
 Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-finder.
 2 : QA should find the bugs and then bugs should be fixed without further investigation. Bug is only a software issue.
+
+
+# Day-5 
+
+- Explained about week-1 work.
+
+- Updated day-4 work to the `repository`.
+
+- Updated `LinkedIn` and `Resume`.
+
+- Learnt  about `Pip `
+
+- Learn about how Qxf2 approaches testing  https://qxf2.com/where-start-testing
+
+- Tried implementing in https://www.icicibank.com/
