@@ -193,6 +193,17 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 
 - Learnt  about `Pip `
 
-- Learn about how Qxf2 approaches testing  https://qxf2.com/where-start-testing
+- Learn about how Qxf2 approaches testing  `https://qxf2.com/where-start-testing`
 
-- Tried implementing in https://www.icicibank.com/
+- Tried implementing in `https://www.icicibank.com/`
+
+
+# Day - 6
+
+- Updated **Day-5**  work to the repository.
+
+- Completed `ACC model` today.
+
+- Tested  https://qxf2.com/selenium-tutorial-main page using what I learnt from basics of testing.
+
+- Learnt about `API`.
