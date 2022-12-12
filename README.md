@@ -207,3 +207,15 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Tested  https://qxf2.com/selenium-tutorial-main page using what I learnt from basics of testing.
 
 - Learnt about `API`.
+
+# Day - 7
+
+- Updated `day-6` work to the repository
+
+- Learn about some tricks in `git`.
+
+- Learnt about `selenium`
+
+- Learnt how to download `selenium` in `virtual environment`.
+
+- Learnt about how to create a `cover letter` and created one.
