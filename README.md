@@ -219,3 +219,13 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Learnt how to download `selenium` in `virtual environment`.
 
 - Learnt about how to create a `cover letter` and created one.
+
+# Day-8
+
+- Updated `day-7` work to the `repository`.
+
+- Learnt some `keyboard shortcuts`
+
+- Arranged a meeting and explained
+
+- Learnt about `HTML`,`CSS`,`DOM`
