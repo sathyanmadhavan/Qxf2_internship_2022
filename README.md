@@ -245,3 +245,7 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Updated `Day-9` work on  `repository`.
  
 - Learnt about `XPath` and `CSS selectors`.
+
+- Blog for `XPath` - https://qxf2.com/blog/getting-started-with-xpaths/
+
+- Blog for `CSS selector`- https://qxf2.com/blog/how-to-write-css-selectors/
