@@ -239,3 +239,9 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Found out how to create `virtual environment` using **venv**
 
 - Tried finding how to mention `python version` using **venv**
+
+# Day-10
+
+- Updated `Day-9` work on  `repository`.
+ 
+- Learnt about `XPath` and `CSS selectors`.
