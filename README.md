@@ -249,3 +249,11 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Blog for `XPath` -  [XPath](https://qxf2.com/blog/getting-started-with-xpaths/)
 
 - Blog for `CSS selector`- [CSS](https://qxf2.com/blog/how-to-write-css-selectors/)
+
+# Day-11
+
+- Updated `Day-10` work in `repository`
+  
+- Forked a repository  https://github.com/Mrinank-Bhowmick/python-beginner-projects
+  
+- Chose a `python project` and tried to work on it.
