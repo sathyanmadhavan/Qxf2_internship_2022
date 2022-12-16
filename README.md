@@ -254,6 +254,8 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 
 - Updated `Day-10` work in `repository`
   
-- Forked a repository  https://github.com/Mrinank-Bhowmick/python-beginner-projects
+- Forked a repository from  https://github.com/Mrinank-Bhowmick/python-beginner-projects
+
+- Link to my `forked repository` https://github.com/sathyanmadhavan/python-beginner-projects.git
   
 - Chose a `python project` and tried to work on it.
