@@ -265,3 +265,16 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Updated `Day-11` work in `repository`
 
 - Created a new branch https://github.com/sathyanmadhavan/python-beginner-projects.git and updated my project
+
+
+# Day-13
+
+- Updated `Day-12` work in `repository`.
+  
+- Learnt about `Exploratory testing`, `Horizontal and vertical scaling` and installed `geckodriver`, `Chromedrive`.                   
+  
+  **Blogs found useful** :
+
+- [Exploratory testing](https://www.guru99.com/exploratory-testing.html)
+  
+- [Horizontal and vertical scaling](https://www.cloudzero.com/blog/horizontal-vs-vertical-scaling)
