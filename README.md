@@ -278,3 +278,9 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - [Exploratory testing](https://www.guru99.com/exploratory-testing.html)
   
 - [Horizontal and vertical scaling](https://www.cloudzero.com/blog/horizontal-vs-vertical-scaling)
+
+# Day-14
+
+- Updated `Day-13` work in `repository`
+
+- Choosed this web application https://easycollege.in/dgvcoe/college/stuindex.aspx to try automation testing.
