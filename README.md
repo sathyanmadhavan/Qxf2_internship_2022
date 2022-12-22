@@ -284,3 +284,9 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Updated `Day-13` work in `repository`
 
 - Choosed this web application https://easycollege.in/dgvcoe/college/stuindex.aspx to try automation testing.
+
+# Day-15
+
+- Updated `Day-14` work in `repository`
+
+- Revised topics : `Selenium` , `Xpath and css selectors`, `HTML`, `CSS` , `DOM`
