@@ -290,3 +290,10 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Updated `Day-14` work in `repository`
 
 - Revised topics : `Selenium` , `Xpath and css selectors`, `HTML`, `CSS` , `DOM`
+  
+# Day-16
+- Updated `Day-15` work in `repository`
+  
+- Forked a repository from Qxf2 https://github.com/qxf2/selenium-beginners.git 
+
+- Chose this https://pythonspot.com/selenium/ to practice selenium
