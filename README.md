@@ -283,7 +283,7 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 
 - Updated `Day-13` work in `repository`
 
-- Choosed this web application https://easycollege.in/dgvcoe/college/stuindex.aspx to try automation testing.
+- Choosed this web application https://edumarshal.com/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxYzQa8u5bjYvZ8gMpm43uXkWXovhfRqJp7TaInW6ebpPpQi73XzhDhoCEhoQAvD_BwE to try automation testing.
 
 # Day-15
 
@@ -296,4 +296,4 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
   
 - Forked a repository from Qxf2 https://github.com/qxf2/selenium-beginners.git 
 
-- Chose this https://pythonspot.com/selenium/ to practice selenium
+- Chose this https://edumarshal.com/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxYzQa8u5bjYvZ8gMpm43uXkWXovhfRqJp7TaInW6ebpPpQi73XzhDhoCEhoQAvD_BwE to practice selenium
