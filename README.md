@@ -1,3 +1,4 @@
+[![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/PyCQA/pylint)
 # Day-1
 
 Task-1: 
@@ -296,4 +297,57 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Updated `Day-15` work in `repository`
 
 - Picked https://edumarshal.com/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxYzQa8u5bjYvZ8gMpm43uXkWXovhfRqJp7TaInW6ebpPpQi73XzhDhoCEhoQAvD_BwE this application to try basics of selenium.
+
+# Day-17
+
+- Updated `Day-16` work in `repository`
   
+- Forked this repository https://github.com/qxf2/selenium-beginners.git .
+
+- In this repository there were selenium tutiorials for beginners and chose a web application https://edumarshal.com/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxYzQa8u5bjYvZ8gMpm43uXkWXovhfRqJp7TaInW6ebpPpQi73XzhDhoCEhoQAvD_BwE . Following are the test which I have done:
+  
+  **Tutorial-1**
+
+  -  **Navigate_Url** - Tested if the `title` of the page is proper. 
+  
+  **Tutorial-2**
+
+  -  **Fill_values** - Tested if the `values` are filled in the form properly.
+  
+  **Tutorial-3**
+
+  -  **Set_dropdown** - Tested if the `dropdown` works properly.
+  
+  **Tutorial-4**
+
+  - **Enable_Checkbox** - Tested if the `checkbox` is working
+
+  **Tutorial-5**
+
+  - **Click_button** - Tested if the `submit button` works properly.
+  
+  **Tutorial-6**
+
+  - **Form_validation** -Tested if the `validation` is present when giving empty values and tried clicking submit button.
+  
+  **Tutorial-7**
+
+ - **Form_submit_success**- Tested by giving proper values and the page is redirecting to the desired page
+
+  **Tutorial-8**
+
+ - **Hover** - Tested if the hover works properly by performing action method.
+
+ **Tutorial-9**
+
+ - **Counting rows**- Tried different site https://statisticstimes.com/sports/ipl/all-ipl-points-table.php for counting rows .
+
+**Tutorial-10**
+
+ - **Table_values**- Tried this https://www.indiatoday.in/live-score/t20-world-cup-points-table/2022/ site and got every table values in this
+
+**Tutorial-11**
+
+- **Consolidated test** - overall testing where filled the form values, clicked the submit button and took a screenshot in this
+
+- Link to my repository https://github.com/sathyanmadhavan/selenium-beginners.git.
