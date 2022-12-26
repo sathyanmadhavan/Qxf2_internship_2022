@@ -296,4 +296,11 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Updated `Day-15` work in `repository`
 
 - Picked https://edumarshal.com/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxYzQa8u5bjYvZ8gMpm43uXkWXovhfRqJp7TaInW6ebpPpQi73XzhDhoCEhoQAvD_BwE this application to try basics of selenium.
+
+# Day-17
+
+- Updated `Day-16` work in `repository`
   
+- Forked this repository https://github.com/qxf2/selenium-beginners.git and practised `selenium-tutorials`.
+  
+- Link to my repository https://github.com/sathyanmadhavan/selenium-beginners.git.
