@@ -351,3 +351,15 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - **Consolidated test** - overall testing where filled the form values, clicked the submit button and took a screenshot in this
 
 - Link to my repository https://github.com/sathyanmadhavan/selenium-beginners.git.
+
+# Day-18
+
+- Updated `Day-17` work in github repository.
+
+- Updated `LinkedIn` and `Resume`.
+  
+- Explored about `Pylint` and found this link useful : https://www.geeksforgeeks.org/pylint-module-in-python/
+  
+- Changed the python scripts to `pylint` standards and updated it to Github 
+  
+- Repository links: https://github.com/sathyanmadhavan/Qxf2_internship_2022.git , https://github.com/sathyanmadhavan/selenium-beginners.git
