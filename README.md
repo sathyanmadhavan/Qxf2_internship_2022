@@ -363,3 +363,10 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Changed the python scripts to `pylint` standards and updated it to Github 
   
 - Repository links: https://github.com/sathyanmadhavan/Qxf2_internship_2022.git , https://github.com/sathyanmadhavan/selenium-beginners.git
+
+# Day-19 
+
+- Updated `Day-18` work in the github `repository`.
+
+- Explored about `Pytest` and found this link useful : https://www.softwaretestinghelp.com/pytest-tutorial/
+
