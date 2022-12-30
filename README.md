@@ -370,3 +370,8 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 
 - Explored about `Pytest` and found this link useful : https://www.softwaretestinghelp.com/pytest-tutorial/
 
+# Day-20
+
+- Updated `Day-19` work in the github `repository`
+
+- Revised `Pylint` and `Pytest` 
