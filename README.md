@@ -375,3 +375,13 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Updated `Day-19` work in the github `repository`
 
 - Revised `Pylint` and `Pytest` 
+
+# Day-21
+
+- Updated `Day-20` work in the github `repository`
+
+- Tested python scripts using `Pytest`
+
+- Created a new branch and updated the scripts worked on.
+
+- Link to my repository: https://github.com/sathyanmadhavan/selenium-beginners/tree/pytest_practice
