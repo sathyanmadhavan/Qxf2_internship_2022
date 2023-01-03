@@ -385,3 +385,15 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Created a new branch and updated the scripts worked on.
 
 - Link to my repository: https://github.com/sathyanmadhavan/selenium-beginners/tree/pytest_practice
+
+# Day-22
+
+- Updated `Day-21` work in the github `repository`
+
+- Explored about `Agile methodology` in **Project management**
+
+- Links used to explore about Agile methodology : 
+    > https://www.javatpoint.com/advantage-and-disadvantage-of-agile-methodology
+    > https://www.javatpoint.com/agile
+    > https://youtu.be/Z9QbYZh1YXY
+    > https://youtu.be/GzzkpAOxHXs
