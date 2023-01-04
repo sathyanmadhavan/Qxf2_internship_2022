@@ -397,3 +397,16 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
     > https://www.javatpoint.com/agile
     > https://youtu.be/Z9QbYZh1YXY
     > https://youtu.be/GzzkpAOxHXs
+
+  # Day-23
+
+  - Updated `Day-22` work in github repository
+
+  - Explored about `Design pattern` 
+
+  - Explored about `Facade pattern`
+
+  - Links found useful : 
+   > https://medium.com/globant/facade-design-pattern-automation-testing-5a19e48883eb
+
+   > https://www.geeksforgeeks.org/facade-method-python-design-patterns/?ref=rp
