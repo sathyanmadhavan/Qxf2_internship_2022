@@ -418,3 +418,7 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
    - Explored about `classes` and `objects` 
 
    - Tried modifying existing selenium files according to `facade pattern`
+
+   - Links found useful:
+  
+       -[class](https://www.w3schools.com/python/python_classes.asp)
