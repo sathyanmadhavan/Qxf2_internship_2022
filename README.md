@@ -410,3 +410,11 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
    > https://medium.com/globant/facade-design-pattern-automation-testing-5a19e48883eb
 
    > https://www.geeksforgeeks.org/facade-method-python-design-patterns/?ref=rp
+
+   # Day-24
+
+   - Updated `Day-23` work in github repository
+
+   - Explored about `classes` and `objects` 
+
+   - Tried modifying existing selenium files according to `facade pattern`
