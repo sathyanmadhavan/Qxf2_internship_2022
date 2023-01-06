@@ -422,3 +422,11 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
    - Links found useful:
   
        -[class](https://www.w3schools.com/python/python_classes.asp)
+
+  # Day-25
+
+  - Updated `Day-24` work in github repository
+
+  - Modified existing selenium files according to `facade pattern`
+
+  - Updated the scripts to github and here is the link to that branch: https://github.com/sathyanmadhavan/selenium-beginners/tree/facade_pratice
