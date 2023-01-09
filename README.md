@@ -430,3 +430,14 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
   - Modified existing selenium files according to `facade pattern`
 
   - Updated the scripts to github and here is the link to that branch: https://github.com/sathyanmadhavan/selenium-beginners/tree/facade_pratice
+
+  # Day-26
+
+  - Updated `Day-25` work in github repository
+
+  - Learnt about `Minimum viable Product` and purpose of MVP
+
+  - Links found useful:
+    > https://youtu.be/ixpphYTDiOM
+    > https://www.productplan.com/glossary/minimum-viable-product/#:~:text=A%20minimum%20viable%20product%2C%20or,iterate%20and%20improve%20the%20product
+    > https://youtu.be/OUStxocWTso
