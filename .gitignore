@@ -1,0 +1,8 @@
+#ignore log files
+
+*.log
+
+#ignore pycache fils
+
+__pycache__/
+.pytest_cache/
