@@ -441,3 +441,21 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
     > https://youtu.be/ixpphYTDiOM
     > https://www.productplan.com/glossary/minimum-viable-product/#:~:text=A%20minimum%20viable%20product%2C%20or,iterate%20and%20improve%20the%20product
     > https://youtu.be/OUStxocWTso
+
+  # Day-27
+
+  - Updated `Day-26` work in github repository.
+
+  - Started learning Python from scratch in this page: https://futurecoder.io/
+
+  - Topics Covered:
+    > Introducing the **Shell**
+    > Navigating `Shell history`
+    > Introducing **Strings**
+    > Adding `Strings`
+    > Introducing **variable**
+    > Using `variables and print()`
+    > Writing `programs`
+    > Storing **calculations** in `variable`
+    > Introducing **for loops**
+    > Indentation
