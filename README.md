@@ -459,3 +459,22 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
     > Storing **calculations** in `variable`
     > Introducing **for loops**
     > Indentation
+
+
+  # Day-28
+
+  - Updated `Day-27` work in github repository.
+
+  - Explored about `Git ignore` 
+
+  - Link found useful: https://www.w3schools.com/git/git_ignore.asp?remote=github
+
+  - Resumed learning Python
+
+  - Topics covered:
+
+  > Building up **Strings**
+  > Basic terminology
+  > Introducing `if statement`
+  > Combining compund statements
+  > if and else
