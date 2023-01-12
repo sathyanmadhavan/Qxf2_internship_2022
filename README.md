@@ -478,3 +478,14 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
   > Introducing `if statement`
   > Combining compund statements
   > if and else
+
+# Day-29
+
+- Updated `Day-28` work in github repository.
+
+- Continued Learning python course
+
+- Topics covered:
+
+> Equality operator
+> Introducing Elif
