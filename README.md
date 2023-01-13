@@ -487,5 +487,20 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 
 - Topics covered:
 
-> Equality operator
-> Introducing Elif
+  > Equality operator
+  > Introducing Elif
+
+# Day-30
+
+- Updated `Day-29` work in github repository.
+
+- Modified Resume
+
+- Continued Learning python course
+
+- Topics covered:
+
+  > Other comparision operators
+  > Introducing lists
+  > Using break to end a loop early
+  > About len()
