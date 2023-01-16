@@ -504,3 +504,16 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
   > Introducing lists
   > Using break to end a loop early
   > About len()
+
+# Day-31
+
+- Updated `Day-30` work in github repository.
+
+- Continued learning python course
+
+- Topics covered:
+  > Getting elements at position,range() and len()
+  > Excersice on range() and len()
+  > Terminology: calling functions and methods
+  > Function and method for list
+  > more list functions and methods 
