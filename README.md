@@ -516,4 +516,20 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
   > Excersice on range() and len()
   > Terminology: calling functions and methods
   > Function and method for list
-  > more list functions and methods 
+  > more list functions and methods
+
+# Day-32
+
+- Updated `Day-31` work in github repository.
+
+- Continued learning python course
+
+- Topics covered:
+  > String methods and immutability
+  > Python tutor
+  > Single and double quotes in string
+  > f-string
+  > Nested loops
+  > Defining functions
+  > Calling functions within function
+  > Returning values from function 
