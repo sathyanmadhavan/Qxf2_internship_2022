@@ -533,3 +533,17 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
   > Defining functions
   > Calling functions within function
   > Returning values from function 
+
+# Day-33
+
+  - Updated `Day-32` work in github repository.
+
+  - Continued learning python course
+
+  - Topics Covered:
+    > return ends the function call
+    > Introducing or
+    > Introducing and
+    > combining And and OR
+    > Introducing NOT
+    > New line character 
