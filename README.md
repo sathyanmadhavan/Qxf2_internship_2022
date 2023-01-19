@@ -547,3 +547,14 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
     > combining And and OR
     > Introducing NOT
     > New line character 
+
+# Day-34
+
+- Updated `Day-33` work in github repository.
+
+- Continued learning python course
+
+- Topics covered:
+  > Tic-toe Project
+  > Dictionaries
+  > Iterating over dictionarie keys
