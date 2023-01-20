@@ -558,3 +558,11 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
   > Tic-toe Project
   > Dictionaries
   > Iterating over dictionarie keys
+
+# Day-35
+
+- Updated `Day-34` work in github repository.
+
+- Started preparing questions on `git` and `pytest`.
+
+- Link to the questions repository: https://github.com/sathyanmadhavan/tech_questions.git
