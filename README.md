@@ -566,3 +566,11 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Started preparing questions on `git` and `pytest`.
 
 - Link to the questions repository: https://github.com/sathyanmadhavan/tech_questions.git
+
+# Day-36
+
+- Updated `Day-35` work in github repository.
+
+- Started preparing questions on `Selenium `.
+
+- Looked up about how to connect github with pythonanywhere and trying to make changes according to it.
