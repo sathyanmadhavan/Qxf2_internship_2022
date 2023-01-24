@@ -574,3 +574,9 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Started preparing questions on `Selenium `.
 
 - Looked up about how to connect github with pythonanywhere and trying to make changes according to it.
+
+# Day-37
+
+- Updated `Day-36` work in github repository.
+
+- Fixed the template issues in pythonanywhere.
