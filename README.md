@@ -574,3 +574,15 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Started preparing questions on `Selenium `.
 
 - Looked up about how to connect github with pythonanywhere and trying to make changes according to it.
+
+# Day-37
+
+- Updated `Day-36` work in github repository.
+
+- Fixed the template issues in pythonanywhere.
+
+- Issues I faced:
+   - The template of the page was not looking good , tried searching what I have done , I have given the files path wrong which was the main reason
+   - I fixed it by giving proper path of the file , The weebhooks in github also had an issue which when I gave a right path the issues are fixed
+
+- Link to my pythonanywhere profile: https://sathyanmadhavan.pythonanywhere.com/
