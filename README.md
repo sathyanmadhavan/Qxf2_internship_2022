@@ -586,3 +586,13 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
    - I fixed it by giving proper path of the file , The weebhooks in github also had an issue which when I gave a right path the issues are fixed
 
 - Link to my pythonanywhere profile: https://sathyanmadhavan.pythonanywhere.com/
+  
+# Day-38
+
+- Updated `Day-37` work in github repository.
+
+- Fixed the icon issues in pythonanywhere.
+
+- Issues: I was using previous version of Bootstrap icons which I didn't linked in the HTML file, then added the links and fixed the issue
+
+- Link to my pythonanywhere profile : https://sathyanmadhavan.pythonanywhere.com/
