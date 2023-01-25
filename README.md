@@ -596,3 +596,9 @@ Mindset we need to move:1 : QA means gatekeeper: QA team is a tester and bug-fin
 - Issues: I was using previous version of Bootstrap icons which I didn't linked in the HTML file, then added the links and fixed the issue
 
 - Link to my pythonanywhere profile : https://sathyanmadhavan.pythonanywhere.com/
+
+- **GitHub Webhook**: Webhooks allows us to connect with webapps and also allow to subscribe some events like push and ping .
+The push event allows use to modify the link whenever a push from local to remote happens.
+
+- Blog post which helped me to connect pythonanywhere to github : https://medium.com/@aadibajpai/deploying-to-pythonanywhere-via-github-6f967956e664#:~:text=First%20off%2C%20make%20sure%20your,clone%20into%20PythonAnywhere%20from%20GitHub.&text=Now%20go%20to%20your%20repository,%E2%86%92%20Webhooks%20%E2%86%92%20Add%20webhook
+
