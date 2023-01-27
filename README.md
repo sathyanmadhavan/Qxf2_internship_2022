@@ -602,3 +602,17 @@ The push event allows use to modify the link whenever a push from local to remot
 
 - Blog post which helped me to connect pythonanywhere to github : https://medium.com/@aadibajpai/deploying-to-pythonanywhere-via-github-6f967956e664#:~:text=First%20off%2C%20make%20sure%20your,clone%20into%20PythonAnywhere%20from%20GitHub.&text=Now%20go%20to%20your%20repository,%E2%86%92%20Webhooks%20%E2%86%92%20Add%20webhook
 
+
+# Day-39
+
+- Updated `Day-38` work in github repository.
+
+- Revised about **Basics of Software testing**
+
+- Blog posts found useful:
+
+ > https://youtu.be/cDQ34z0oqnQ
+ > https://www.testim.io/blog/software-testing-basics/
+ > https://youtu.be/rhE45ihB26E
+ > https://www.guru99.com/software-testing-introduction-importance.html
+ > https://youtu.be/qQfFp_GORpY
