@@ -616,3 +616,16 @@ The push event allows use to modify the link whenever a push from local to remot
  > https://youtu.be/rhE45ihB26E
  > https://www.guru99.com/software-testing-introduction-importance.html
  > https://youtu.be/qQfFp_GORpY
+
+
+# Day-40
+
+- Updated `Day-40` work in github repository
+
+- Revised about **pip** and **How Qxf2 approaches testing**
+
+- Blog posts found useful:
+
+ > https://realpython.com/what-is-pip/#:~:text=The%20standard%20package%20manager%20for,of%20the%20Python%20standard%20library
+ > https://www.w3schools.com/python/python_pip.asp
+ > https://stackoverflow.com/questions/50947238/why-pip-is-required-or-what-is-the-use-of-it-in-python
