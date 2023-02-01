@@ -629,3 +629,15 @@ The push event allows use to modify the link whenever a push from local to remot
  > https://realpython.com/what-is-pip/#:~:text=The%20standard%20package%20manager%20for,of%20the%20Python%20standard%20library
  > https://www.w3schools.com/python/python_pip.asp
  > https://stackoverflow.com/questions/50947238/why-pip-is-required-or-what-is-the-use-of-it-in-python
+
+# Day-41 
+
+- Updated `Day-41` work in github repository
+
+- Revised about **Selenium**
+
+- Blog posts found useful:
+
+ > https://www.javatpoint.com/selenium-webdriver
+ > https://youtu.be/mOAXEQevCAE
+ > https://www.selenium.dev/selenium-ide/docs/en/introduction/getting-started
