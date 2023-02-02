@@ -620,7 +620,7 @@ The push event allows use to modify the link whenever a push from local to remot
 
 # Day-40
 
-- Updated `Day-40` work in github repository
+- Updated `Day-39` work in github repository
 
 - Revised about **pip** and **How Qxf2 approaches testing**
 
@@ -632,7 +632,7 @@ The push event allows use to modify the link whenever a push from local to remot
 
 # Day-41 
 
-- Updated `Day-41` work in github repository
+- Updated `Day-40` work in github repository
 
 - Revised about **Selenium**
 
@@ -641,3 +641,22 @@ The push event allows use to modify the link whenever a push from local to remot
  > https://www.javatpoint.com/selenium-webdriver
  > https://youtu.be/mOAXEQevCAE
  > https://www.selenium.dev/selenium-ide/docs/en/introduction/getting-started
+
+# Day-42
+
+- Updated `Day-41` work in github repository
+
+- Revised about **HTML**,**CSS**, **DOM**
+
+- Blog found useful:
+
+  > https://overapi.com/html
+  > https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
+  > https://cs.wellesley.edu/~cs115/slides/W01-02-HTMLBasics.pdf
+  > https://www.tutorialspoint.com/html/html_tutorial.pdf
+  > https://overapi.com/css
+  > https://youtu.be/1PnVor36_40
+  > https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
+  > https://overapi.com/html-dom
+  > https://youtu.be/ipkjfvl40s0
+  > https://youtu.be/XD7fYLQeQIg
