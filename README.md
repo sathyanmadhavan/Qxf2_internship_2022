@@ -660,3 +660,24 @@ The push event allows use to modify the link whenever a push from local to remot
   > https://overapi.com/html-dom
   > https://youtu.be/ipkjfvl40s0
   > https://youtu.be/XD7fYLQeQIg
+
+# Day-43
+
+  - Updated `Day-42` work in github repository
+
+  - Revised about **XPath** , **CSS-Selectors**
+
+  - Blog found useful:
+
+    > https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
+    > https://qxf2.com/blog/getting-started-with-xpaths/
+    > https://www.w3schools.com/xml/xpath_intro.asp
+    > https://youtu.be/U-MZJ6rbqi4
+
+  - Explored about **Page Object Model**
+
+  - Blog found useful:
+    > https://youtu.be/W5wHDPzSl1M
+    > https://github.com/gunesmes/page-object-python-selenium
+    > https://www.colibri-software.com/2021/07/page-object-model-pom-in-selenium-using-python/
+    > https://www.browserstack.com/guide/page-object-model-in-selenium-python
