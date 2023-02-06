@@ -681,3 +681,24 @@ The push event allows use to modify the link whenever a push from local to remot
     > https://github.com/gunesmes/page-object-python-selenium
     > https://www.colibri-software.com/2021/07/page-object-model-pom-in-selenium-using-python/
     > https://www.browserstack.com/guide/page-object-model-in-selenium-python
+
+  # Day-44
+
+    - Updated `Day-43` work in github repository
+
+    - Revised about **Exploratory testing** , **Horizontal and vertical scaling**
+
+    - Blog found useful:
+
+      > https://youtu.be/p1YQU5sEz4g
+      > https://youtu.be/xpDnVSmNFX0
+      > https://touchstonesecurity.com/horizontal-vs-vertical-scaling-what-you-need-to-know/
+      > https://www.javatpoint.com/exploratory-testing
+      > https://youtu.be/PohaPW33Q7o
+
+    - Explored about **git merge vs rebase**
+
+    - Blog found useful:
+      > https://www.edureka.co/blog/git-rebase-vs-merge/
+      > https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+      > https://youtu.be/KWAZl2QHC44
