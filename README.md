@@ -702,3 +702,29 @@ The push event allows use to modify the link whenever a push from local to remot
       > https://www.edureka.co/blog/git-rebase-vs-merge/
       > https://www.atlassian.com/git/tutorials/merging-vs-rebasing
       > https://youtu.be/KWAZl2QHC44
+
+  # Day-45
+
+    - Updated `Day-44` work in github repository
+
+    - Revised about `pytest` and `pylint` 
+
+    - Blog found useful:
+
+      > https://youtu.be/2smOyzvncGc
+      > https://youtu.be/fFY5103p5-c
+      > https://www.javatpoint.com/python-pylint-module
+      > https://www.guru99.com/pytest-tutorial.html
+      > https://youtu.be/VAKPLodocPs
+      > https://youtu.be/FDGYhuCOgEY
+      > https://youtu.be/yA5jqNCCOLE
+
+    - Explored about `Client server architecture` and **HTTP methods**
+
+    - Blog found useful:
+
+      > https://youtu.be/Dg1U-jwVUrg
+      > https://youtu.be/h-n_gyyNly8
+      > https://youtu.be/guYMSP7JVTA
+      > https://youtu.be/-Zea7GB2OwA
+      > https://www.tutorialspoint.com/http/http_methods.htm
