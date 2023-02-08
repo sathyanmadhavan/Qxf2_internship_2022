@@ -728,3 +728,14 @@ The push event allows use to modify the link whenever a push from local to remot
       > https://youtu.be/guYMSP7JVTA
       > https://youtu.be/-Zea7GB2OwA
       > https://www.tutorialspoint.com/http/http_methods.htm
+
+    # Day-46
+
+      - Updated `Day-45` work in github repository
+
+      - Revised about **Agile methodology** , **Facade pattern**
+
+      - Blog found useful:
+         > https://youtu.be/8eVXTyIZ1Hs
+         > https://www.teamwork.com/project-management-guide/agile-project-management/
+         > https://www.javatpoint.com/facade-design-pattern-in-python
