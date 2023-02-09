@@ -739,3 +739,24 @@ The push event allows use to modify the link whenever a push from local to remot
          > https://youtu.be/8eVXTyIZ1Hs
          > https://www.teamwork.com/project-management-guide/agile-project-management/
          > https://www.javatpoint.com/facade-design-pattern-in-python
+
+
+    # Day-47
+
+      - Updated `Day-46` work in github repository
+
+      - Revised about Classes, objects and gitignore
+
+      - Blog found useful:
+
+      > https://www.w3schools.com/git/git_ignore.asp?remote=github
+      > https://youtu.be/qSnjgEU6VwQ
+      > https://youtu.be/8O5kX73OkIY
+      > https://pynative.com/python-classes-and-objects/
+      > https://www.programiz.com/python-programming/class
+
+      - Explored about **What is a test case**, **How to write test case**
+
+      - Written 15 test cases for this page https://qainterview.pythonanywhere.com/
+
+      - Link to the test case written https://docs.google.com/spreadsheets/d/1WcIYwfghhS1RWd1s70Vb3b752jHa6crZJyHUuII2wbs/edit?usp=sharing
