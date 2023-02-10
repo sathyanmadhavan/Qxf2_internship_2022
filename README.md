@@ -760,3 +760,16 @@ The push event allows use to modify the link whenever a push from local to remot
       - Written 15 test cases for this page https://qainterview.pythonanywhere.com/
 
       - Link to the test case written https://docs.google.com/spreadsheets/d/1WcIYwfghhS1RWd1s70Vb3b752jHa6crZJyHUuII2wbs/edit?usp=sharing
+
+
+    # Day-48
+
+      - Updated `Day-47` work in github repository
+
+      - Explored about **Page Object Model**
+
+      - Blog post found useful:
+
+        > https://github.com/gunesmes/page-object-python-selenium
+        > https://qxf2.com/blog/page-object-model-selenium-python/
+        > https://www.lambdatest.com/blog/page-object-model-in-selenium-python/
