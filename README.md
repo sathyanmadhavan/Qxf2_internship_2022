@@ -682,7 +682,7 @@ The push event allows use to modify the link whenever a push from local to remot
     > https://www.colibri-software.com/2021/07/page-object-model-pom-in-selenium-using-python/
     > https://www.browserstack.com/guide/page-object-model-in-selenium-python
 
-  # Day-44
+# Day-44
 
     - Updated `Day-43` work in github repository
 
@@ -703,7 +703,7 @@ The push event allows use to modify the link whenever a push from local to remot
       > https://www.atlassian.com/git/tutorials/merging-vs-rebasing
       > https://youtu.be/KWAZl2QHC44
 
-  # Day-45
+# Day-45
 
     - Updated `Day-44` work in github repository
 
@@ -741,7 +741,7 @@ The push event allows use to modify the link whenever a push from local to remot
          > https://www.javatpoint.com/facade-design-pattern-in-python
 
 
-    # Day-47
+  # Day-47
 
       - Updated `Day-46` work in github repository
 
@@ -762,7 +762,7 @@ The push event allows use to modify the link whenever a push from local to remot
       - Link to the test case written https://docs.google.com/spreadsheets/d/1WcIYwfghhS1RWd1s70Vb3b752jHa6crZJyHUuII2wbs/edit?usp=sharing
 
 
-    # Day-48
+  # Day-48
 
       - Updated `Day-47` work in github repository
 
