@@ -602,7 +602,6 @@ The push event allows use to modify the link whenever a push from local to remot
 
 - Blog post which helped me to connect pythonanywhere to github : https://medium.com/@aadibajpai/deploying-to-pythonanywhere-via-github-6f967956e664#:~:text=First%20off%2C%20make%20sure%20your,clone%20into%20PythonAnywhere%20from%20GitHub.&text=Now%20go%20to%20your%20repository,%E2%86%92%20Webhooks%20%E2%86%92%20Add%20webhook
 
-
 # Day-39
 
 - Updated `Day-38` work in github repository.
@@ -681,6 +680,7 @@ The push event allows use to modify the link whenever a push from local to remot
     > https://github.com/gunesmes/page-object-python-selenium
     > https://www.colibri-software.com/2021/07/page-object-model-pom-in-selenium-using-python/
     > https://www.browserstack.com/guide/page-object-model-in-selenium-python
+    
 
 # Day-44
 
@@ -729,7 +729,7 @@ The push event allows use to modify the link whenever a push from local to remot
       > https://youtu.be/-Zea7GB2OwA
       > https://www.tutorialspoint.com/http/http_methods.htm
 
-    # Day-46
+  # Day-46
 
       - Updated `Day-45` work in github repository
 
