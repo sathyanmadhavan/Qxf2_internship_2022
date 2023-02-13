@@ -684,19 +684,19 @@ The push event allows use to modify the link whenever a push from local to remot
 
 # Day-44
 
-    - Updated `Day-43` work in github repository
+  - Updated `Day-43` work in github repository
 
-    - Revised about **Exploratory testing** , **Horizontal and vertical scaling**
+  - Revised about **Exploratory testing** , **Horizontal and vertical scaling**
 
-    - Blog found useful:
+  - Blog found useful:
 
-      > https://youtu.be/p1YQU5sEz4g
-      > https://youtu.be/xpDnVSmNFX0
-      > https://touchstonesecurity.com/horizontal-vs-vertical-scaling-what-you-need-to-know/
-      > https://www.javatpoint.com/exploratory-testing
-      > https://youtu.be/PohaPW33Q7o
+    > https://youtu.be/p1YQU5sEz4g
+    > https://youtu.be/xpDnVSmNFX0
+    > https://touchstonesecurity.com/horizontal-vs-vertical-scaling-what-you-need-to-know/
+    > https://www.javatpoint.com/exploratory-testing
+    > https://youtu.be/PohaPW33Q7o
 
-    - Explored about **git merge vs rebase**
+  - Explored about **git merge vs rebase**
 
     - Blog found useful:
       > https://www.edureka.co/blog/git-rebase-vs-merge/
@@ -705,9 +705,9 @@ The push event allows use to modify the link whenever a push from local to remot
 
 # Day-45
 
-    - Updated `Day-44` work in github repository
+  - Updated `Day-44` work in github repository
 
-    - Revised about `pytest` and `pylint` 
+  - Revised about `pytest` and `pylint` 
 
     - Blog found useful:
 
@@ -773,3 +773,19 @@ The push event allows use to modify the link whenever a push from local to remot
         > https://github.com/gunesmes/page-object-python-selenium
         > https://qxf2.com/blog/page-object-model-selenium-python/
         > https://www.lambdatest.com/blog/page-object-model-in-selenium-python/
+
+
+  # Day-49 
+
+      - Updated `Day-48` work in github repository
+
+      - Explored about **Boundary value analysis** , **HTTP vs HTTPS** 
+
+      - Blog post found useful:
+
+        > https://youtu.be/DpDgaGP-jsQ
+        > https://www.javatpoint.com/boundary-value-analysis-in-black-box-testing
+        > https://www.geeksforgeeks.org/software-testing-boundary-value-analysis/
+        > https://youtu.be/AB0VMbvEz7g
+        > https://www.javatpoint.com/http-vs-https
+        > https://www.guru99.com/difference-http-vs-https.html
