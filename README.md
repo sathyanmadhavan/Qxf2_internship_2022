@@ -729,25 +729,25 @@ The push event allows use to modify the link whenever a push from local to remot
       > https://youtu.be/-Zea7GB2OwA
       > https://www.tutorialspoint.com/http/http_methods.htm
 
-  # Day-46
+# Day-46
 
-      - Updated `Day-45` work in github repository
+  - Updated `Day-45` work in github repository
 
-      - Revised about **Agile methodology** , **Facade pattern**
+  - Revised about **Agile methodology** , **Facade pattern**
 
-      - Blog found useful:
+  - Blog found useful:
          > https://youtu.be/8eVXTyIZ1Hs
          > https://www.teamwork.com/project-management-guide/agile-project-management/
          > https://www.javatpoint.com/facade-design-pattern-in-python
 
 
-  # Day-47
+# Day-47
 
-      - Updated `Day-46` work in github repository
+  - Updated `Day-46` work in github repository
 
-      - Revised about Classes, objects and gitignore
+  - Revised about Classes, objects and gitignore
 
-      - Blog found useful:
+  - Blog found useful:
 
       > https://www.w3schools.com/git/git_ignore.asp?remote=github
       > https://youtu.be/qSnjgEU6VwQ
@@ -755,33 +755,33 @@ The push event allows use to modify the link whenever a push from local to remot
       > https://pynative.com/python-classes-and-objects/
       > https://www.programiz.com/python-programming/class
 
-      - Explored about **What is a test case**, **How to write test case**
+  - Explored about **What is a test case**, **How to write test case**
 
-      - Written 15 test cases for this page https://qainterview.pythonanywhere.com/
+  - Written 15 test cases for this page https://qainterview.pythonanywhere.com/
 
-      - Link to the test case written https://docs.google.com/spreadsheets/d/1WcIYwfghhS1RWd1s70Vb3b752jHa6crZJyHUuII2wbs/edit?usp=sharing
+  - Link to the test case written https://docs.google.com/spreadsheets/d/1WcIYwfghhS1RWd1s70Vb3b752jHa6crZJyHUuII2wbs/edit?usp=sharing
 
 
-  # Day-48
+# Day-48
 
-      - Updated `Day-47` work in github repository
+  - Updated `Day-47` work in github repository
 
-      - Explored about **Page Object Model**
+  - Explored about **Page Object Model**
 
-      - Blog post found useful:
+  - Blog post found useful:
 
         > https://github.com/gunesmes/page-object-python-selenium
         > https://qxf2.com/blog/page-object-model-selenium-python/
         > https://www.lambdatest.com/blog/page-object-model-in-selenium-python/
 
 
-  # Day-49 
+# Day-49 
 
-      - Updated `Day-48` work in github repository
+  - Updated `Day-48` work in github repository
 
-      - Explored about **Boundary value analysis** , **HTTP vs HTTPS** 
+  - Explored about **Boundary value analysis** , **HTTP vs HTTPS** 
 
-      - Blog post found useful:
+  - Blog post found useful:
 
         > https://youtu.be/DpDgaGP-jsQ
         > https://www.javatpoint.com/boundary-value-analysis-in-black-box-testing
