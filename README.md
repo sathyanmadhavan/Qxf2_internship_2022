@@ -770,9 +770,9 @@ The push event allows use to modify the link whenever a push from local to remot
 
   - Blog post found useful:
 
-        > https://github.com/gunesmes/page-object-python-selenium
-        > https://qxf2.com/blog/page-object-model-selenium-python/
-        > https://www.lambdatest.com/blog/page-object-model-in-selenium-python/
+      > https://github.com/gunesmes/page-object-python-selenium
+      > https://qxf2.com/blog/page-object-model-selenium-python/
+      > https://www.lambdatest.com/blog/page-object-model-in-selenium-python/
 
 
 # Day-49 
@@ -783,9 +783,24 @@ The push event allows use to modify the link whenever a push from local to remot
 
   - Blog post found useful:
 
-        > https://youtu.be/DpDgaGP-jsQ
-        > https://www.javatpoint.com/boundary-value-analysis-in-black-box-testing
-        > https://www.geeksforgeeks.org/software-testing-boundary-value-analysis/
-        > https://youtu.be/AB0VMbvEz7g
-        > https://www.javatpoint.com/http-vs-https
-        > https://www.guru99.com/difference-http-vs-https.html
+      > https://youtu.be/DpDgaGP-jsQ
+      > https://www.javatpoint.com/boundary-value-analysis-in-black-box-testing
+      > https://www.geeksforgeeks.org/software-testing-boundary-value-analysis/
+      > https://youtu.be/AB0VMbvEz7g
+      > https://www.javatpoint.com/http-vs-https
+      > https://www.guru99.com/difference-http-vs-https.html
+
+
+# Day-50
+
+  - Updated `Day-49` work in github repository
+
+  - Explored about **Docker**
+
+  - Blog post useful:
+
+    > https://youtu.be/rOTqprHv1YE
+    > https://youtu.be/-LeV_c1zG-s
+    > https://youtu.be/u-YWtdbpEhQ
+    > https://www.tutorialspoint.com/docker/docker_images.htm
+    > https://www.geeksforgeeks.org/introduction-to-docker/
