@@ -804,3 +804,16 @@ The push event allows use to modify the link whenever a push from local to remot
     > https://youtu.be/u-YWtdbpEhQ
     > https://www.tutorialspoint.com/docker/docker_images.htm
     > https://www.geeksforgeeks.org/introduction-to-docker/
+
+# Day-51
+
+  - Updated `Day-50` work in github repository 
+
+  - Explored about **Docker Commands**
+
+  - Blog post found useful:
+
+    > https://overapi.com/docker
+    > https://hackr.io/blog/docker-cheat-sheet-docker-commands
+    > https://phoenixnap.com/kb/docker-commands-cheat-sheet
+    > https://www.fosstechnix.com/docker-command-cheat-sheet/
