@@ -829,4 +829,26 @@ The push event allows use to modify the link whenever a push from local to remot
     > https://www.guru99.com/docker-tutorial.html
     > https://www.w3schools.io/docker-commands/
     > https://youtu.be/xGn7cFR3ARU
-    > https://youtu.be/3X32yau2b5k
+    > https://youtu.be/3X32yau2b5k  
+
+
+# Day-53 
+
+  - Updated `Day-52` work in github repository
+
+  - Picked up the task which consists of a webapplication and to write UI and API test case for the application
+
+  - Forked the repository https://github.com/qxf2/practice-testing-ai-ml.git 
+
+  - Cloned the repository to local 
+
+  - Followed these steps to setup the application
+
+    > Created a vitrual environment using python 3.7 version
+    > Activated the environment
+    > Entered python interpreter
+    > Imported nltk and downloaded stopwords
+    > Exited from python interpreter
+    > Started the server `python ai_ml_app.py`
+
+  - Written test cases for the app and link to the test case written https://docs.google.com/spreadsheets/d/18WeHfGosZQotkUe3Ow5VG8M7skFJy5xiUQ2oRZC8KcU/edit?usp=sharing
