@@ -852,3 +852,11 @@ The push event allows use to modify the link whenever a push from local to remot
     > Started the server `python ai_ml_app.py`
 
   - Written test cases for the app and link to the test case written https://docs.google.com/spreadsheets/d/18WeHfGosZQotkUe3Ow5VG8M7skFJy5xiUQ2oRZC8KcU/edit?usp=sharing
+
+# Day-54
+
+  - Updated `Day-53` work in github repository
+
+  - Written UI test for the application and link to the repository https://github.com/sathyanmadhavan/PTO_app.git
+
+  - Exploring about API testing 
