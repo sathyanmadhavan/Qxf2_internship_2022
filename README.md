@@ -860,3 +860,13 @@ The push event allows use to modify the link whenever a push from local to remot
   - Written UI test for the application and link to the repository https://github.com/sathyanmadhavan/PTO_app.git
 
   - Exploring about API testing 
+
+# Day-55 
+
+  - Updated `Day-54` work in github repository
+
+  - Written API test for the application and link to the repositry https://github.com/sathyanmadhavan/PTO_app/tree/API_test
+
+  - Exlpored about how to setup test trigger via CI push to any branch
+
+  - Trying to set the trigger
