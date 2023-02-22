@@ -870,3 +870,13 @@ The push event allows use to modify the link whenever a push from local to remot
   - Exlpored about how to setup test trigger via CI push to any branch
 
   - Trying to set the trigger
+
+# Day-56 
+
+  - Updated `Day-55` work in github repository
+
+  - Explored about Serialization and deserialization in json
+
+  - Trying to fix the error in test_API file
+
+  - Modified test_UI file to test with `pytest framework`
