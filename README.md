@@ -885,6 +885,37 @@ The push event allows use to modify the link whenever a push from local to remot
 
   - Updated `Day-56` work in github repository
 
-  - Modified **test_API** file and updated it the repository https://github.com/sathyanmadhavan/PTO_app.git
+  - Modified **test_API** file and updated it the repository https://github.com/sathyanmadhavan/PTO_app.git  
 
-  - Looked about `Endpoints` and how to send input and return out put through API
+  - Looked about `Endpoints` and how to send input and return out put through  API 
+
+
+# Day-58
+
+  - Updated `Day-57` work in github repository
+
+  - Explored about how to setup test to trigger via CI to push at any branch
+
+  - Explored about GitHub actions
+
+  - Setted the test got an error
+ 
+    >  driver=webdriver.Chrome()
+      /opt/hostedtoolcache/Python/3.7.15/x64/lib/python3.7/site-packages/selenium/webdriver/chrome/webdriver.py:90: in __init__
+      keep_alive,
+      /opt/hostedtoolcache/Python/3.7.15/x64/lib/python3.7/site-packages/selenium/webdriver/chromium/webdriver.py:114: in __init__
+      options=options, 
+      /opt/hostedtoolcache/Python/3.7.15/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py:288: in __init__
+      self.start_session(capabilities, browser_profile)
+      /opt/hostedtoolcache/Python/3.7.15/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py:381: in start_session
+      response = self.execute(Command.NEW_SESSION, parameters)
+      /opt/hostedtoolcache/Python/3.7.15/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py:444: in execute
+      self.error_handler.check_response(response)
+      /opt/hostedtoolcache/Python/3.7.15/x64/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py:249: in check_response
+      raise exception_class(message, screen, stacktrace)
+      E   selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+      E   (unknown error: DevToolsActivePort file doesn't exist)
+      E   (The process started from chrome location /usr/bin/google-chrome is no longer running 
+      
+    - Found this blog https://morioh.com/p/9202cb0630ea and followed the steps and fixed the issue
+                                                                                                                                                                                                                                                             
