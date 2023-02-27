@@ -918,4 +918,11 @@ The push event allows use to modify the link whenever a push from local to remot
       E   (The process started from chrome location /usr/bin/google-chrome is no longer running 
       
     - Found this blog https://morioh.com/p/9202cb0630ea and followed the steps and fixed the issue
-                                                                                                                                                                                                                                                             
+
+  # Day-59
+
+    - Updated `Day-58` work in github repository
+
+    - Explored about **SSO** and written one pager about `SSO` , link to the repository https://github.com/sathyanmadhavan/SSO_Notes.git
+
+    - Added challenge to Qxf2's wtfiswronghere , link to the PR https://github.com/qxf2/wtfiswronghere/pull/67
