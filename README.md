@@ -926,3 +926,9 @@ The push event allows use to modify the link whenever a push from local to remot
     - Explored about **SSO** and written one pager about `SSO` , link to the repository https://github.com/sathyanmadhavan/SSO_Notes.git
 
     - Added challenge to Qxf2's wtfiswronghere , link to the PR https://github.com/qxf2/wtfiswronghere/pull/67
+
+  # Day-60
+
+    - Updated `Day-59` work in github repository
+
+    - Attended Retrospective meeting and also presented a demo of my work done throughout this internship
